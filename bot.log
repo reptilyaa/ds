@@ -1,0 +1,292 @@
+2026-01-16 15:59:34,433 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 15:59:34,454 | INFO | logging in using static token
+2026-01-16 15:59:36,065 | INFO | Shard ID None has connected to Gateway (Session ID: 0e9ab2e2dde8ccd46cecaa3caf4b4891).
+2026-01-16 16:04:08,971 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:04:44,971 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:04:54,075 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:06:38,529 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:07:26,683 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:07:49,041 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:07:49,045 | WARNING | Privileged message content intent is missing, commands may not work as expected.
+2026-01-16 16:07:49,045 | INFO | logging in using static token
+2026-01-16 16:07:50,904 | INFO | Shard ID None has connected to Gateway (Session ID: f3f37ad6f620de777127b17f4ec6b96d).
+2026-01-16 16:08:12,395 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:08:12,398 | INFO | logging in using static token
+2026-01-16 16:08:14,111 | INFO | Shard ID None has connected to Gateway (Session ID: 7dfa6fee4e6f43de641601621324e228).
+2026-01-16 16:08:48,019 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:08:48,023 | INFO | logging in using static token
+2026-01-16 16:08:49,528 | INFO | Shard ID None has connected to Gateway (Session ID: 36bcc98490124c3aa82420c4f8a16b2b).
+2026-01-16 16:11:01,908 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:15:23,105 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:17:17,150 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:19:44,429 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:23:10,597 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:23:10,600 | INFO | logging in using static token
+2026-01-16 16:23:12,379 | INFO | Shard ID None has connected to Gateway (Session ID: abfdb8a95a4fcc963e43e8938a7c9515).
+2026-01-16 16:30:41,415 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:30:41,420 | INFO | logging in using static token
+2026-01-16 16:30:44,501 | INFO | Shard ID None has connected to Gateway (Session ID: 16e5f3333a8238dae5b321bb0a38808f).
+2026-01-16 16:32:19,068 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:32:19,073 | INFO | logging in using static token
+2026-01-16 16:32:20,871 | INFO | Shard ID None has connected to Gateway (Session ID: 54fb306deb00e08294fc2de395e557f7).
+2026-01-16 16:32:31,185 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:32:31,191 | INFO | logging in using static token
+2026-01-16 16:32:32,908 | INFO | Shard ID None has connected to Gateway (Session ID: e1c6d8f71fdf7a59e23f2b7cca48f820).
+2026-01-16 16:32:42,197 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:32:42,202 | INFO | logging in using static token
+2026-01-16 16:32:43,985 | INFO | Shard ID None has connected to Gateway (Session ID: 50cd40fcd4c285a130920c9ab958dc3d).
+2026-01-16 16:33:02,555 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:33:02,560 | INFO | logging in using static token
+2026-01-16 16:33:04,296 | INFO | Shard ID None has connected to Gateway (Session ID: 16b636a2c83edba8d90d2bf0dd155498).
+2026-01-16 16:33:20,841 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:33:20,847 | INFO | logging in using static token
+2026-01-16 16:33:22,421 | INFO | Shard ID None has connected to Gateway (Session ID: 7c0af0052684e177e7c8c26a05101ee1).
+2026-01-16 16:33:45,687 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:33:45,694 | INFO | logging in using static token
+2026-01-16 16:33:47,917 | INFO | Shard ID None has connected to Gateway (Session ID: 05bce62c8b759c892a64107454ef7e3d).
+2026-01-16 16:34:04,914 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:34:04,920 | INFO | logging in using static token
+2026-01-16 16:34:06,675 | INFO | Shard ID None has connected to Gateway (Session ID: d9c82508f2ed449afa20327518b1480f).
+2026-01-16 16:34:20,768 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:34:20,774 | INFO | logging in using static token
+2026-01-16 16:34:22,253 | INFO | Shard ID None has connected to Gateway (Session ID: 7a6398e7a0f3c3b5520427918ff9c6ea).
+2026-01-16 16:35:56,530 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:35:56,534 | INFO | logging in using static token
+2026-01-16 16:35:57,988 | INFO | Shard ID None has connected to Gateway (Session ID: 04bfd82d62014946cd661d4627283857).
+2026-01-16 16:36:33,516 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 381, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 196, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-16 16:39:50,962 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:39:50,968 | INFO | logging in using static token
+2026-01-16 16:39:52,726 | INFO | Shard ID None has connected to Gateway (Session ID: ace81c794e596b8b4b94ec30df0d0602).
+2026-01-16 16:41:12,936 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:41:12,948 | INFO | logging in using static token
+2026-01-16 16:41:14,723 | INFO | Shard ID None has connected to Gateway (Session ID: b1b32038108df6b0df84d49b13353075).
+2026-01-16 16:41:46,854 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 381, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 196, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-16 16:43:22,649 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:43:22,655 | INFO | logging in using static token
+2026-01-16 16:43:24,337 | INFO | Shard ID None has connected to Gateway (Session ID: a3acfe10f9a28abe0c7ddf928d04e37b).
+2026-01-16 16:43:54,675 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-16 16:43:54,682 | INFO | logging in using static token
+2026-01-16 16:43:56,244 | INFO | Shard ID None has connected to Gateway (Session ID: 13a1613b38e3aab9f0021626f22918a2).
+2026-01-16 16:46:17,397 | WARNING | [AGPG GUARD] qwxyyy. добавил бота Lumos#4494 — бан!
+2026-01-16 16:46:18,433 | WARNING | AGPG Guard: qwxyyy. забанен. Причина: AGPG Guard: добавил бота Lumos#4494.
+2026-01-16 16:46:22,264 | WARNING | AGPG Guard: Lumos#4494 забанен. Причина: AGPG Guard: автоматически заблокирован после добавления.
+2026-01-28 15:57:32,603 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 15:57:32,638 | INFO | logging in using static token
+2026-01-28 15:57:34,417 | INFO | Shard ID None has connected to Gateway (Session ID: 4e298e42a4afa0b63e015723085f28d8).
+2026-01-28 15:58:33,137 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 15:58:33,142 | INFO | logging in using static token
+2026-01-28 15:58:34,991 | INFO | Shard ID None has connected to Gateway (Session ID: 42e0ad5841c21c656c9d84fbb878a02c).
+2026-01-28 15:59:16,519 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 15:59:16,524 | INFO | logging in using static token
+2026-01-28 15:59:18,085 | INFO | Shard ID None has connected to Gateway (Session ID: 99281ffaef9939dcd0233b86b1428459).
+2026-01-28 16:03:23,409 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:03:23,414 | INFO | logging in using static token
+2026-01-28 16:03:25,097 | INFO | Shard ID None has connected to Gateway (Session ID: 82793d20117a60ba28236052ecb2125f).
+2026-01-28 16:17:15,080 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:17:15,098 | INFO | logging in using static token
+2026-01-28 16:23:03,969 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:23:03,975 | INFO | logging in using static token
+2026-01-28 16:23:05,552 | INFO | Shard ID None has connected to Gateway (Session ID: 08ec8e99b83cfdfc2ae49ed0d982f03d).
+2026-01-28 16:24:21,716 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:24:21,720 | INFO | logging in using static token
+2026-01-28 16:24:23,301 | INFO | Shard ID None has connected to Gateway (Session ID: b56d6ddd3f466fd7c3f1ba6120812d2b).
+2026-01-28 16:26:09,874 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:26:09,882 | INFO | logging in using static token
+2026-01-28 16:26:11,681 | INFO | Shard ID None has connected to Gateway (Session ID: 40dd2bc1d61e637843b9b6fb74e467a9).
+2026-01-28 16:26:20,562 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:26:20,569 | INFO | logging in using static token
+2026-01-28 16:26:22,376 | INFO | Shard ID None has connected to Gateway (Session ID: 166840411158a84c0ecb299c5ca09ba5).
+2026-01-28 16:27:22,417 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:27:22,425 | INFO | logging in using static token
+2026-01-28 16:27:23,928 | INFO | Shard ID None has connected to Gateway (Session ID: 2fed3beba03bb4ab6fc98b1fa450f21a).
+2026-01-28 16:28:59,418 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:28:59,424 | INFO | logging in using static token
+2026-01-28 16:29:00,911 | INFO | Shard ID None has connected to Gateway (Session ID: 8b57e93732a4617224fa287790904844).
+2026-01-28 16:30:35,868 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:30:35,875 | INFO | logging in using static token
+2026-01-28 16:30:37,536 | INFO | Shard ID None has connected to Gateway (Session ID: 1f6c1ce146677709d149f236af951391).
+2026-01-28 16:34:18,421 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:34:18,428 | INFO | logging in using static token
+2026-01-28 16:34:20,353 | INFO | Shard ID None has connected to Gateway (Session ID: 69744fb97911c28450621b3856612b11).
+2026-01-28 16:34:33,183 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:34:33,189 | INFO | logging in using static token
+2026-01-28 16:34:34,659 | INFO | Shard ID None has connected to Gateway (Session ID: be18239a3c8693bc0e9baf0cded8782a).
+2026-01-28 16:34:53,441 | INFO | logging in using static token
+2026-01-28 16:34:53,918 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:34:53,926 | INFO | logging in using static token
+2026-01-28 16:34:55,393 | INFO | Shard ID None has connected to Gateway (Session ID: 9c84b7c09a89ebbe87820c222f76848c).
+2026-01-28 16:35:59,521 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:35:59,528 | INFO | logging in using static token
+2026-01-28 16:36:00,974 | INFO | Shard ID None has connected to Gateway (Session ID: 8ca6d755c0f24756642067cbab726f63).
+2026-01-28 16:36:31,989 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:36:31,996 | INFO | logging in using static token
+2026-01-28 16:36:33,606 | INFO | Shard ID None has connected to Gateway (Session ID: 5e832be92ec6f23e7a2112124a6e65fc).
+2026-01-28 16:37:05,592 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:37:05,599 | INFO | logging in using static token
+2026-01-28 16:37:07,332 | INFO | Shard ID None has connected to Gateway (Session ID: becf6b78022dd5b9c5acf1cc7966c0cf).
+2026-01-28 16:37:29,423 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:37:29,429 | INFO | logging in using static token
+2026-01-28 16:37:31,397 | INFO | Shard ID None has connected to Gateway (Session ID: 3ee76fcce2ec076f55b6d4ae2fdb12b9).
+2026-01-28 16:37:47,900 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:37:47,906 | INFO | logging in using static token
+2026-01-28 16:37:49,469 | INFO | Shard ID None has connected to Gateway (Session ID: cb1c62042db830109ff00150faab7015).
+2026-01-28 16:38:21,623 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:38:21,630 | INFO | logging in using static token
+2026-01-28 16:38:23,442 | INFO | Shard ID None has connected to Gateway (Session ID: 66466bf875737d86c984de21acdf5583).
+2026-01-28 16:38:30,672 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:38:30,680 | INFO | logging in using static token
+2026-01-28 16:38:32,387 | INFO | Shard ID None has connected to Gateway (Session ID: cce0664e745018de24a1d0a15ad35d33).
+2026-01-28 16:38:34,670 | WARNING | We are being rate limited. PUT https://discord.com/api/v10/applications/1409259882405957644/guilds/975504947972030485/commands responded with 429. Retrying in 4.94 seconds.
+2026-01-28 16:38:51,571 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:38:51,578 | INFO | logging in using static token
+2026-01-28 16:38:52,992 | INFO | Shard ID None has connected to Gateway (Session ID: af062b1206b51b61c0bd1e08f0d9aa80).
+2026-01-28 16:38:55,232 | WARNING | We are being rate limited. PUT https://discord.com/api/v10/applications/1409259882405957644/guilds/975504947972030485/commands responded with 429. Retrying in 14.38 seconds.
+2026-01-28 16:39:53,046 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:39:53,052 | INFO | logging in using static token
+2026-01-28 16:39:54,637 | INFO | Shard ID None has connected to Gateway (Session ID: 1b6daa88a062aa9b07cde0c0abbc0832).
+2026-01-28 16:41:20,453 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:41:20,461 | INFO | logging in using static token
+2026-01-28 16:41:22,073 | INFO | Shard ID None has connected to Gateway (Session ID: 4941919beb7a05fc6b69f0f19d9a79dc).
+2026-01-28 16:42:51,943 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:42:51,950 | INFO | logging in using static token
+2026-01-28 16:42:53,400 | INFO | Shard ID None has connected to Gateway (Session ID: aa33c3f0673ebbeab00ab0081a5b7b97).
+2026-01-28 16:46:44,649 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:46:44,656 | INFO | logging in using static token
+2026-01-28 16:46:46,176 | INFO | Shard ID None has connected to Gateway (Session ID: ed6ea95a79475b49ce3e95548543b54e).
+2026-01-28 16:47:20,416 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:47:20,423 | INFO | logging in using static token
+2026-01-28 16:47:22,473 | INFO | Shard ID None has connected to Gateway (Session ID: 3978a8bcfbd983d0c82dff42f1bd48ab).
+2026-01-28 16:48:50,030 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:48:50,039 | INFO | logging in using static token
+2026-01-28 16:48:51,681 | INFO | Shard ID None has connected to Gateway (Session ID: c8f5ab4226195ab396905d368afed8a1).
+2026-01-28 16:49:25,854 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:49:25,859 | INFO | logging in using static token
+2026-01-28 16:49:27,283 | INFO | Shard ID None has connected to Gateway (Session ID: f5d7133a3f3befa42ffbc476b29bc119).
+2026-01-28 16:49:43,105 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:49:43,111 | INFO | logging in using static token
+2026-01-28 16:49:44,752 | INFO | Shard ID None has connected to Gateway (Session ID: f78740e6aff9694e274931a65269cdb7).
+2026-01-28 16:54:39,076 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 539, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:55:12,067 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 539, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:55:16,491 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 539, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:55:45,124 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 539, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:56:06,672 | ERROR | Ignoring exception in on_message_edit
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 539, in on_message_edit
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:57:12,470 | ERROR | Ignoring exception in on_message_delete
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 494, in on_message_delete
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:57:23,170 | ERROR | Ignoring exception in on_message_delete
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 494, in on_message_delete
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:57:36,540 | ERROR | Ignoring exception in on_message_delete
+Traceback (most recent call last):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\venv\lib\site-packages\discord\client.py", line 504, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 494, in on_message_delete
+    if is_event_processed(unique_id):
+  File "C:\Users\gmetp\PycharmProjects\pythonProject16\main.py", line 354, in is_event_processed
+    asyncio.create_task(cleanup_event(unique_id))  # безопасно и не ломает loop
+NameError: name 'asyncio' is not defined
+2026-01-28 16:59:30,977 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 16:59:30,982 | INFO | logging in using static token
+2026-01-28 16:59:32,780 | INFO | Shard ID None has connected to Gateway (Session ID: cba93f63f3989c95bcd7325393e32181).
+2026-01-28 17:03:48,369 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 17:03:48,373 | INFO | logging in using static token
+2026-01-28 17:03:49,994 | INFO | Shard ID None has connected to Gateway (Session ID: 60ef176573b0ecfc1bb9aa142029b340).
+2026-01-28 17:06:53,568 | INFO | [AGPG GUARD] l_ksen0n. сделал kick → qwxyyy.
+2026-01-28 17:06:57,093 | INFO | [AGPG GUARD] l_ksen0n. сделал kick → mojayaka
+2026-01-28 17:07:01,887 | INFO | [AGPG GUARD] l_ksen0n. сделал kick → arlenn12
+2026-01-28 17:07:03,143 | WARNING | AGPG Guard: l_ksen0n. забанен. Причина: AGPG Guard: превысил лимит банов/киков (0 банов, 3 киков).
+2026-01-28 17:24:42,693 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 17:24:42,698 | INFO | logging in using static token
+2026-01-28 17:24:44,425 | INFO | Shard ID None has connected to Gateway (Session ID: c7aa15542684660cc74ab0d9fe14d0c9).
+2026-01-28 20:50:32,280 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 20:50:32,444 | INFO | logging in using static token
+2026-01-28 20:50:36,131 | INFO | Shard ID None has connected to Gateway (Session ID: f3633f3c5183323137d6a875e44bbefc).
+2026-01-28 20:52:28,502 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 20:52:28,506 | INFO | logging in using static token
+2026-01-28 20:52:30,273 | INFO | Shard ID None has connected to Gateway (Session ID: a9933b7dabc431081c6f859363140556).
+2026-01-28 20:55:35,891 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 20:55:35,896 | INFO | logging in using static token
+2026-01-28 20:55:37,733 | INFO | Shard ID None has connected to Gateway (Session ID: 2a925c5a19eaf3facdfad711b08038ae).
+2026-01-28 21:03:29,979 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 21:03:29,984 | INFO | logging in using static token
+2026-01-28 21:03:32,078 | INFO | Shard ID None has connected to Gateway (Session ID: 271682c80ebfb0e2bbf38ce441958a0e).
+2026-01-28 21:04:38,548 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 21:04:38,553 | INFO | logging in using static token
+2026-01-28 21:04:40,325 | INFO | Shard ID None has connected to Gateway (Session ID: d80fac12b67e8e2602cf3a0c16cad5b7).
+2026-01-28 21:07:02,688 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 21:07:02,693 | INFO | logging in using static token
+2026-01-28 21:07:04,316 | INFO | Shard ID None has connected to Gateway (Session ID: 004f02b49301f2a2ee24d57165f97179).
+2026-01-28 21:08:51,441 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-01-28 21:08:51,445 | INFO | logging in using static token
+2026-01-28 21:08:52,940 | INFO | Shard ID None has connected to Gateway (Session ID: 27edb6f58c4b65f9f49deca433b21379).
+2026-01-28 21:11:13,846 | WARNING | [AGPG GUARD] qwxyyy. добавил бота Lumos#4494 — бан!
+2026-01-28 21:11:15,387 | WARNING | AGPG Guard: qwxyyy. забанен. Причина: AGPG Guard: добавил бота Lumos#4494.
+2026-01-28 21:11:19,118 | WARNING | AGPG Guard: Lumos#4494 забанен. Причина: AGPG Guard: автоматически заблокирован после добавления.
