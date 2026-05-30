@@ -290,3 +290,22 @@ NameError: name 'asyncio' is not defined
 2026-01-28 21:11:13,846 | WARNING | [AGPG GUARD] qwxyyy. добавил бота Lumos#4494 — бан!
 2026-01-28 21:11:15,387 | WARNING | AGPG Guard: qwxyyy. забанен. Причина: AGPG Guard: добавил бота Lumos#4494.
 2026-01-28 21:11:19,118 | WARNING | AGPG Guard: Lumos#4494 забанен. Причина: AGPG Guard: автоматически заблокирован после добавления.
+2026-05-30 10:53:39,999 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 10:53:40,014 | INFO | logging in using static token
+2026-05-30 10:53:41,354 | INFO | Shard ID None has connected to Gateway (Session ID: 7aed2f04ad0c4460f8b6e29fe1f0e71f).
+2026-05-30 11:01:02,802 | ERROR | Ошибка при логировании удалённого сообщения: 404 Not Found (error code: 0): asset not found
+2026-05-30 11:02:18,817 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 11:02:18,821 | INFO | logging in using static token
+2026-05-30 11:02:20,385 | INFO | Shard ID None has connected to Gateway (Session ID: 805ac0e665b334b7e149e158aa81f60d).
+2026-05-30 11:02:42,421 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 11:02:42,425 | INFO | logging in using static token
+2026-05-30 11:02:43,863 | INFO | Shard ID None has connected to Gateway (Session ID: d2172a2fd8f2a2375c3d5aa78de4e6c1).
+2026-05-30 11:02:59,483 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 11:02:59,486 | INFO | logging in using static token
+2026-05-30 11:03:00,840 | INFO | Shard ID None has connected to Gateway (Session ID: 96048da046488f589d16c988a03a3c8f).
+2026-05-30 11:03:22,476 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 11:03:22,480 | INFO | logging in using static token
+2026-05-30 11:03:23,912 | INFO | Shard ID None has connected to Gateway (Session ID: c4aa737702177cd837682b168be3e40d).
+2026-05-30 11:03:54,822 | WARNING | PyNaCl is not installed, voice will NOT be supported
+2026-05-30 11:03:54,826 | INFO | logging in using static token
+2026-05-30 11:03:56,397 | INFO | Shard ID None has connected to Gateway (Session ID: af1439aa58ce181c0a58ff2c1d936d2e).

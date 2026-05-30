@@ -37,6 +37,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 
 
+
 # ---------------------- ЗАЩИТА ОТ "ПРИЛОЖЕНИЕ НЕ ОТВЕЧАЕТ" ----------------------
 @bot.before_invoke
 async def before_any_command(ctx):
@@ -61,7 +62,13 @@ intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
 
-bot = commands.Bot(command_prefix='!', intents=intents)
+intents = discord.Intents.all()
+
+bot = commands.Bot(
+    command_prefix="!",
+    intents=intents,
+    max_messages=5000
+)
 
 
 
@@ -1176,34 +1183,35 @@ QUESTION_LOG_CHANNEL_ID = int(os.getenv("QUESTION_LOG_CHANNEL_ID"))
 # -------------------- DM LISTENER --------------------
 @bot.listen("on_message")
 async def dm_logger(message: discord.Message):
+
     if message.author.bot:
         return
 
     # Только ЛС
     if message.guild is None:
+
         try:
             channel = await bot.fetch_channel(QUESTION_LOG_CHANNEL_ID)
 
-            embed = discord.Embed(
-                title=f"📩 DM от {message.author}",
-                description=message.content or "*Без текста*",
-                color=discord.Color.blurple()
-            )
-            embed.add_field(
-                name="👤 Пользователь",
-                value=f"{message.author} (`{message.author.id}`)",
-                inline=False
+            text = (
+                f"📩 Сообщение в ЛС\n"
+                f"👤 От: {message.author} ({message.author.id})\n\n"
+                f"{message.content or '*Без текста*'}"
             )
 
-            # Подготовка файлов
+            # Файлы
             files_to_send = []
+
             for att in message.attachments:
-                # Скачиваем файл и прикрепляем
                 file = await att.to_file()
                 files_to_send.append(file)
 
             # Отправка
-            await channel.send(embed=embed, files=files_to_send)
+            await channel.send(
+                content=text,
+                files=files_to_send
+            )
+
             print("✅ SENT TO LOG CHANNEL")
 
         except Exception as e:
@@ -1652,7 +1660,7 @@ from discord import app_commands
 @app_commands.describe(
     role="Выберите роль, которой будет отправлено сообщение",
     meeting_type="Тип объявления",
-    custom_text="Текст сообщения, которое будет отправлено в ЛС"
+    custom_text="Текст сообщения"
 )
 @app_commands.choices(meeting_type=[
     app_commands.Choice(name="Сходка PC 🚘", value="PC"),
@@ -1666,41 +1674,44 @@ async def announce_meeting(
     meeting_type: app_commands.Choice[str],
     custom_text: str
 ):
-    # Только владелец сервера может использовать
+
+    # Только владелец сервера
     if interaction.user != interaction.guild.owner:
         await interaction.response.send_message(
-            "❌ Только владелец сервера может использовать эту команду.", ephemeral=True
+            "❌ Только владелец сервера может использовать эту команду.",
+            ephemeral=True
         )
         return
 
     await interaction.response.defer(ephemeral=True)
 
-    # Определяем цвет Embed в зависимости от типа
-    color = discord.Color.green()  # по умолчанию для сходок
-    if meeting_type.value == "NEWS":
-        color = discord.Color.gold()
-
-    # Создаём Embed
-    embed = discord.Embed(
-        title=f"{meeting_type.name}",
-        description=custom_text,
-        color=color
-    )
-    embed.set_footer(text=f"Для роли: {role.name}")
-
     sent_count = 0
     failed_count = 0
 
-    # Отправляем Embed в ЛС каждому участнику роли
+    # Формирование текста
+    message_text = (
+        f"📢 {meeting_type.name}\n"
+        f"👥 Для роли: {role.name}\n"
+        f"🛡 Отправил: {interaction.user.display_name}\n\n"
+        f"{custom_text}"
+    )
+
+    # Отправка в ЛС
     for member in role.members:
+
+        # Пропуск ботов
+        if member.bot:
+            continue
+
         try:
-            await member.send(embed=embed)
+            await member.send(message_text)
             sent_count += 1
-        except:
+
+        except Exception:
             failed_count += 1
 
     await interaction.followup.send(
-        f"✅ Сообщения отправлены: {sent_count}\n⚠ Не удалось отправить: {failed_count}",
+        f"✅ Отправлено: {sent_count}\n⚠ Не удалось: {failed_count}",
         ephemeral=True
     )
 
